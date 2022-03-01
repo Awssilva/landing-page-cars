@@ -214,3 +214,11 @@ section .card-item {
     align-items: center;
     justify-content: space-around;
 }
+
+.card-item img {
+    width: 85%;
+}
+
+.card-item h3 {
+    width: 95%;
+}
