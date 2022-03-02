@@ -475,7 +475,7 @@ footer .last {
         height: 100%;
     }
 
-    .features-card-block {
+    .feature-card-block {
         height: 100%;
         display: flex;
         flex-direction: column;
@@ -487,6 +487,8 @@ footer .last {
 
     .footer-links {
         flex-direction: column;
-        padding-left: 10%;
+        padding-left: 10px;
     }
+
+    
 }
